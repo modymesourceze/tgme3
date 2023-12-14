@@ -58,7 +58,7 @@ except FileNotFoundError:
     api_id = 25281175
     api_hash = '6d99cb2b60a2c519fc1f99bd19565730'
     bot_token = '6549476942:AAGCJhB7ONobjlAXzbIOJPqyfMExcFNHki4'
-    DEVLOO = 'ELHYPA'
+    DEVLOO = '6581896306'
     MAX_ACCOUNTS = '5'
     user_bot = '@ZE4EBOT'
     id_bot = '6549476942'
